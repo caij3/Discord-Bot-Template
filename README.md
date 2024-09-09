@@ -7,9 +7,6 @@ This is a template for creating a Discord bot using Python and the `discord.py` 
 - Python 3.8 or higher
 - `discord.py` library
 - `python-dotenv` library
-- A Discord bot token
-- Privileged gateway intents enabled for the bot
-- Bot permissions: `application.commands` and `bot`
 
 ## Setup
 
